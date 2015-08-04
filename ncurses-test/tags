@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FILENAME	mytest.cpp	/^const char * FILENAME = "test.txt";$/;"	v
+FILENAME	mytest2.cpp	/^const char * FILENAME = "test.txt";$/;"	v
+bomb	colortest.cpp	/^void bomb(char * msg) {$/;"	f	signature:(char * msg)
+bomb	colortest.cpp	/^void bomb(char * msg);$/;"	p	file:	signature:(char * msg)
+main	colorme.cpp	/^int main() {$/;"	f	signature:()
+main	colortest.cpp	/^int main() {$/;"	f	signature:()
+main	ctrltest.cpp	/^int main(){$/;"	f
+main	hamlet.cpp	/^int main() {$/;"	f
+main	mytest.cpp	/^int main() {$/;"	f
+main	mytest2.cpp	/^int main() {$/;"	f
+main	string1.cpp	/^int main() {$/;"	f	signature:()
+main	testinsert.cpp	/^int main() {$/;"	f
+main	twowin1.cpp	/^int main() {$/;"	f
+main	typewriter.c	/^int main() {$/;"	f
+main	typewriter.cpp	/^int main() {$/;"	f	signature:()

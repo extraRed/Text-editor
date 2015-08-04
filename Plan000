@@ -1,0 +1,31 @@
+628 editor - plan 0.1
+
+editing mode
+r , ina a reading mode
+w , ina a writing mode
+n , new file
+
+view mode
+1 , with mouse *
+2 , commands *
+3 , vi keyboard
+
+basic controls
+1 , editing
+2 , searching
+3 , page up , page down
+4 , opening help docs
+5 , deleting , inserting lines
+
+advanced controls *
+1, more files
+2, copy and paste
+
+
+designing plan
+1 , using libncurses for screen control
+2 , using a class to store the text -- JS
+3 , KMP(with regex) --LMX
+4 , basic control with commands --CQY
+5 , basic control with vi keyboard -- Shiyqw
+6 , contribution -- Shiyqw
